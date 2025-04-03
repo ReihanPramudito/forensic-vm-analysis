@@ -1,4 +1,4 @@
-# Forensic Analysis of Infected Windows 10
+# Forensic Analysis of Infected Windows 10 VM
 
 
 ## 🔍 **Overview**  
