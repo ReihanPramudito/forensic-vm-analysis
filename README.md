@@ -2,10 +2,17 @@
 
 
 ## 🔍 **Overview**  
-- 🎯 **Objective**: *A 1–2 sentence summary of the goal (e.g., "Design and deploy Suricata IDS/IPS to block network attacks and enhance threat detection.")*
-- 📝 **Key Steps**: *A very short bullet list (1–3 steps) outlining your process (e.g., "Configured Suricata rules, automated threat detection with Python, and validated with simulated attacks.")*
-- 📊 **Key Results**: *Highlight quantifiable outcomes (e.g., "Achieved 100% prevention in simulated attack scenarios and reduced false positives by 30%.")*  
-- 📚 **Context**: *Provide a one-sentence note on the nature or origin of the project (e.g., "University project exploring advanced threat detection methods," "CTF challenge designed to simulate real-world network attacks," or "Job simulation for practical application of digital forensics.")* 
+- 🎯 **Objective**: *Analyze a compromised Windows 10 VM to identify malware, trace C2 server communications, and assess data exfiltration risks*
+- 📝 **Key Steps**:
+  - *Conducted disk, RAM, and network acquisition and analysis using Autopsy, Volatility, and Wireshark*
+  - *Scanned suspicious files with VirusTotal and reconstructed attacker infrastructure via Wayback Machine*
+- 📊 **Key Results**:
+  - *Identified **8+ malware strains** (ProKAward keylogger, KMSAuto trojan, loder.exe dropper)*
+  - *Mapped **3 C2 servers** (`weeknews.pro`, `delmonicositaliansteakhouse.com`, `online234.com`)*  
+  - *Confirmed **data exfiltration risks** via weaponized PDFs (`Final_Test.pdf`)*
+  - Uncovered **8+ malware strains** (e.g., ProKAward keylogger, KMSAuto trojan) and **3 C2 servers**
+  - confirmed risks via weaponized PDFs (`Final_Test.pdf`)
+- 📚 **Context**: *Project simulating corporate forensic investigation, mirroring real-world incident response protocols for a suspected malware breach* 
 
 
 ## 🛠️ **Tools & Technologies**  
