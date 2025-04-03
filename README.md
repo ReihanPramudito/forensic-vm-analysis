@@ -7,11 +7,10 @@
   - *Conducted disk, RAM, and network acquisition and analysis using Autopsy, Volatility, and Wireshark*
   - *Scanned suspicious files with VirusTotal and reconstructed attacker infrastructure via Wayback Machine*
 - 📊 **Key Results**:
-  - *Identified **8+ malware strains** (ProKAward keylogger, KMSAuto trojan, loder.exe dropper)*
-  - *Mapped **3 C2 servers** (`weeknews.pro`, `delmonicositaliansteakhouse.com`, `online234.com`)*  
-  - *Confirmed **data exfiltration risks** via weaponized PDFs (`Final_Test.pdf`)*
-  - Uncovered **8+ malware strains** (e.g., ProKAward keylogger, KMSAuto trojan) and **3 C2 servers**
+  - Identified **8+ malware strains** (e.g., ProKAward keylogger, KMSAuto trojan) and **3 C2 servers**
   - confirmed risks via weaponized PDFs (`Final_Test.pdf`)
+  - Exposed **8+ malware strains** (e.g., `ProKAward keylogger`) and **3 C2 servers** (e.g., `weeknews.pro`)
+  - Confirmed **data exfiltration risks** via weaponized PDFs (`Final_Test.pdf`) 
 - 📚 **Context**: *Project simulating corporate forensic investigation, mirroring real-world incident response protocols for a suspected malware breach* 
 
 
