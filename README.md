@@ -1,7 +1,4 @@
-# forensic-vm-analysis
-
-# [Project Title] 
-*(e.g., Suricata IDS/IPS Implementation, Forensic Analysis of Infected VM)*  
+# Forensic Analysis of Infected Windows 10
 
 
 ## 🔍 **Overview**  
