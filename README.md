@@ -13,4 +13,6 @@
 ## 🛠️ **Tools & Technologies**  
 <div align="left">  
   <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/autopsy.png?raw=true" width="127" alt="Autopsy"/>
+  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/volatility.png?raw=true" width="137" alt="Volatility"/>
+  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/wireshark.png?raw=true" width="167" alt="Wireshark"/>
 </div>
