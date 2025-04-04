@@ -1,6 +1,6 @@
 # Forensic Analysis of Infected Windows 10 VM
 
-## 🔍 **Overview**  
+## 📖 **Overview**  
 - 🎯 **Objective**: *Analyze a compromised Windows 10 VM to identify malware, trace C2 server, and assess data exfiltration risks*
 - 📝 **Key Steps**:
   - *Conducted disk, RAM, and network acquisition and analysis using Autopsy, Volatility, and Wireshark*
