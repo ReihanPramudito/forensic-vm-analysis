@@ -3,11 +3,11 @@
 ## 📖 **Overview**  
 - 🎯 **Objective**: *Analyze a compromised Windows 10 VM to identify malware, trace C2 server, and assess data exfiltration risks*
 - 📝 **Key Steps**:
-  - *Conducted disk, RAM, and network acquisition and analysis using Autopsy, Volatility, and Wireshark*
-  - *Scanned suspicious files with VirusTotal and reconstructed attacker infrastructure via Wayback Machine*
+  - *Conducted disk, RAM, and network acquisition and analysis using **Autopsy**, **Volatility**, and **Wireshark***
+  - *Scanned suspicious files with **VirusTotal** and reconstructed attacker infrastructure via **Wayback Machine***
 - 📊 **Key Results**:
   - *Identified **8+ malware strains** (e.g., `ProKAward keylogger`) and **3 C2 servers** (e.g., `weeknews.pro`)*
-  - *Confirmed **data exfiltration risks** via weaponized PDFs (`Final_Test.pdf`)*
+  - *Confirmed **data exfiltration risks** via weaponized PDFs (`Final_Test.pdf`) and forged process (`Microsoft Edge.exe`)*
 - 📚 **Context**: *Project simulating corporate forensic investigation, mirroring real-world incident response for a suspected malware breach* 
 
 ## 🛠️ **Tools & Technologies**  
